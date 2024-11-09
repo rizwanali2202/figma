@@ -237,7 +237,7 @@ a {
     background-color: #CFA6A61C;
   }
 
-  .featured-section .main{
+  .feature-section .main{
     height: 900px;
     display : flex;
     flex-direction: column;
@@ -245,13 +245,13 @@ a {
     gap: 20px;
   }
 
-  .featured-section .card-parents{
+  .feature-section .card-parents{
     display: flex;
     flex-direction: column;
     gap : 100px;
   }
 
-  .featured-section .card .card-content {
+  .feature-section .card .card-content {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
