@@ -59,7 +59,7 @@ export default function Home() {
 
             <div className="main-heading">
               <h3>Featured Works</h3>
-            </div>
+              </div>
 
                 <div className="card-parents"></div>
 
@@ -95,9 +95,9 @@ export default function Home() {
                   Velit officia consequat duis enim velit mollit. 
                   Exercitation veniam consequat sunt nostrud amet.</p>
               </div>
-                </div>
+                 </div>
 
-                <div className="card">
+                  <div className="card">
               <Image src="/image3.png" width={246} height={180} alt="Picture"></Image>
 
               <div className="card-content">
@@ -113,8 +113,8 @@ export default function Home() {
                   Exercitation veniam consequat sunt nostrud amet.</p>
               </div> 
             
-              </div>
-
+                 </div>
+              
               </div>
 
         </div>
